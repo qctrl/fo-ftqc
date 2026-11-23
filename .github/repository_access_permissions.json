@@ -1,0 +1,5 @@
+{
+  "repositories": {
+    "qctrl/rust-compilation-tools": "write"
+  }
+}
